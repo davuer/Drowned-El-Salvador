@@ -1,0 +1,22 @@
+<svg id="nav-texto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="345.5" height="88" viewBox="0 0 345.5 88">
+  <defs>
+    <filter id="Wearing_drowned_">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#fff" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2" data-name="Group 2">
+    <text id="STYLE_Free" data-name="STYLE Free" transform="translate(0 40)" fill="#fff" font-size="40" font-family="Impact"><tspan x="0" y="0">STYLE Free</tspan></text>
+    <g data-type="innerShadowGroup">
+      <text id="Wearing_drowned_2" data-name="Wearing  drowned " transform="translate(44.5 79)" font-size="33" font-family="Rubik-BoldItalic, Rubik" font-weight="700" font-style="italic"><tspan x="0" y="0" xml:space="preserve">Wearing  drowned </tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Wearing_drowned_)">
+        <text id="Wearing_drowned_3" data-name="Wearing  drowned " transform="translate(44.5 79)" fill="#fff" font-size="33" font-family="Rubik-BoldItalic, Rubik" font-weight="700" font-style="italic"><tspan x="0" y="0" xml:space="preserve">Wearing  drowned </tspan></text>
+      </g>
+      <text id="Wearing_drowned_4" data-name="Wearing  drowned " transform="translate(44.5 79)" stroke="rgba(112,112,112,0.63)" stroke-linejoin="round" stroke-width="1" font-size="33" font-family="Rubik-BoldItalic, Rubik" font-weight="700" font-style="italic" fill="none"><tspan x="0" y="0" xml:space="preserve">Wearing  drowned </tspan></text>
+    </g>
+  </g>
+</svg>

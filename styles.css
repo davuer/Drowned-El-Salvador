@@ -1,0 +1,266 @@
+* {
+
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+
+}
+
+body {
+
+    
+    
+}
+
+.container {
+	max-width: 390px;
+	margin: 0 auto;
+}
+
+.nav {
+
+    height: 200px;
+    width: 100%;
+    background-image: url(mascara\ degradado\ nav.svg);
+    flex-direction: column;
+    height: 450px;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+
+}
+
+.nav-menu {
+
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    
+
+}
+
+.nav-logo {
+
+    display: flex;
+    margin: 0;
+    justify-content: flex-end;
+
+}
+
+.nav-logo-img {
+
+    width: 100%;
+    max-width: 40px;
+    vertical-align: top;
+    height: 40px;
+    margin: 0;
+
+}
+
+.nav-botones {
+
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 0;
+    
+
+}
+
+.nav-botones a{
+
+    text-decoration: none;
+    color: #ffff;
+    
+
+}
+
+
+.nav-presentacion {
+
+   display: flex;
+   flex-direction: column;
+
+}
+
+.nav-presentacion-imgs {
+
+    position: relative;
+    bottom: 35px;
+    width: 100%;
+    vertical-align: top;
+
+}
+
+.nav-presentacion-texto {
+
+    position: relative;
+    bottom: 110px;
+    height: 87px;
+
+}
+
+
+.main {
+
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.section-1 , .section-2 {
+
+    margin-bottom: 150px;
+}
+
+.section-3 {}
+
+.section3-bestsaler {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    height: 322px;
+    width: 384px;
+    box-shadow: -1px 5px 5px rgba(114, 114, 114, 0.581);
+    border-radius: 20px;
+
+}
+
+.bestsaler-texto h2{
+
+    font-family: Segoe UI Variable Text;
+    font-weight: bold;
+    color: #8C6FCA;
+
+
+}
+
+.bestsaler-slider {
+
+    height: 322px;
+    width: 384px;
+
+}
+
+.section3-store {
+
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+
+}
+
+.btn-tienda {
+
+    height: 45px;
+    width: 145px;
+    border-radius: 10px;
+    background-color: #8C6FCA;
+    display: flex;
+    align-items: center;
+    border: 0;
+}
+
+.btn-tienda a {
+
+    text-decoration: none;
+    font-family: Segoe UI Variable Text;
+    font-weight: bold;
+    font-size: 15px;
+    color: #ffff;
+
+}
+
+.icono-store {
+
+    width: 30px;
+    height: 27px;
+
+}
+
+footer {
+    
+    margin-top: 120px;
+    width: 100%;
+    background-color: #2D2D2D;
+    
+}
+.footer-container {
+
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+}
+
+.footer-logo {
+
+    margin: 0;
+    padding: 0;    
+
+}
+
+.footer-logo-img {
+
+    height: 175px;
+    width: 140px;
+
+}
+
+.footer-redes {
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+
+.redes-logo {
+
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+}
+
+.footer-redes-logo-img {
+
+    width: 100px;
+    
+
+}
+
+.footer-redes-icons {
+
+    display: flex;
+    gap: 20px;
+
+}
+
+.footer-imgredes-img {
+    
+    height: 15px;
+    width: 15px;
+
+}
+
+.footer-nav {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.footer-nav a {
+
+    font-family: Segoe UI Variable Text;
+    font-weight: bold;
+    font-size: 10px;
+    color: #ffff;
+    text-decoration: none;
+}

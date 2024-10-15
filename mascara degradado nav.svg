@@ -1,0 +1,11 @@
+<svg id="mascara_degradado_nav" data-name="mascara degradado nav" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="449" viewBox="0 0 390 449">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.216" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0cf"/>
+      <stop offset="1" stop-color="#8c6fca"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="-0.245" x2="0.491" y2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect id="mascara-cuadrada-borderendondo" width="390" height="449" rx="33" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  <rect id="mascara-cuadrada" width="390" height="394" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+</svg>

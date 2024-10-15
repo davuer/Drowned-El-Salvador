@@ -1,3 +1,11 @@
+.luckiest-guy-regular {
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
 * {
 
     padding: 0;
@@ -71,7 +79,9 @@ body {
 
     text-decoration: none;
     color: #ffff;
-    
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
 
 }
 
@@ -216,6 +226,16 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 8px;
+
+}
+
+.footer-redes-texto h2 {
+
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #8C6FCA;
+    font-size: 10px;
 
 }
 
